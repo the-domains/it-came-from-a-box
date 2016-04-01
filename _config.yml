@@ -1,7 +1,7 @@
 name: It Came From A Box
 favicon: null
-layout_spectrum: 0.34000944439321756
-typography_spectrum: 0.19302313076332211
+layout_spectrum: 1
+typography_spectrum: 0.07272
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#fbb23c'
+    - '#18162f'
+    - '#00a159'
+    - '#f4f6f8'
+    - '#a27536'
   brandStrength: 0.03541288431733847
   lightness: 0.32214761851355433
   saturation: 0.2580307191237807
