@@ -1,0 +1,28 @@
+name: It Came From A Box
+favicon: null
+layout_spectrum: 0.34000944439321756
+typography_spectrum: 0.19302313076332211
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.03541288431733847
+  lightness: 0.32214761851355433
+  saturation: 0.2580307191237807
+  rhythmicContrast: 0.29962962539866567
+purpose: []
